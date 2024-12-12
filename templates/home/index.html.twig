@@ -1,0 +1,45 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Accueil - Gestion des Marques et Bonbons{% endblock %}
+
+{% block body %}
+    <div class="container mt-5">
+        <div class="text-center">
+            <h1 class="display-4 mb-4">Gestion des Marques et Bonbons</h1>
+            <p class="lead">Bienvenue dans votre application de gestion. Vous pouvez ici gérer les marques et les bonbons associés.</p>
+            <hr class="my-4">
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <div class="card border-primary mb-4">
+                    <div class="card-header bg-primary text-white text-center">
+                        <h4>Gérer les Marques</h4>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">Ajoutez, modifiez ou supprimez les marques dans le système.</p>
+                        <div class="d-grid gap-2">
+                            <a href="{{ path('app_marque_index') }}" class="btn btn-outline-primary btn-lg">Voir les Marques</a>
+                            <a href="{{ path('app_marque_new') }}" class="btn btn-outline-success btn-lg">Ajouter une Marque</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card border-success mb-4">
+                    <div class="card-header bg-success text-white text-center">
+                        <h4>Gérer les Bonbons</h4>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">Ajoutez, modifiez ou supprimez les bonbons et associez-les à une marque existante.</p>
+                        <div class="d-grid gap-2">
+                            <a href="{{ path('app_bonbon_index') }}" class="btn btn-outline-primary btn-lg">Voir les Bonbons</a>
+                            <a href="{{ path('app_bonbon_new') }}" class="btn btn-outline-success btn-lg">Ajouter un Bonbon</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

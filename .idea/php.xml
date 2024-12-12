@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/asset-mapper" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/type-info" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/stimulus-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/composer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/doctrine-messenger" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/ux-turbo" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/eval_bonbon/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/type-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/eval_bonbon/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/eval_bonbon/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

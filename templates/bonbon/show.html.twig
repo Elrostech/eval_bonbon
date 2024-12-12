@@ -1,0 +1,54 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Bonbon{% endblock %}
+
+{% block body %}
+    <h1>Bonbon</h1>
+
+    <table class="table">
+        <tbody>
+        <tr>
+            <th>Id</th>
+            <td>{{ bonbon.id }}</td>
+        </tr>
+        <tr>
+            <th>Titre</th>
+            <td>{{ bonbon.titre }}</td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>{{ bonbon.description }}</td>
+        </tr>
+        <tr>
+            <th>PoidsNet</th>
+            <td>{{ bonbon.poidsNet }}</td>
+        </tr>
+        <tr>
+            <th>QuantiteDansLeSachet</th>
+            <td>{{ bonbon.quantiteDansLeSachet }}</td>
+        </tr>
+        <tr>
+            <th>SansSucre</th>
+            <td>{{ bonbon.sansSucre ? 'Yes' : 'No' }}</td>
+        </tr>
+        <tr>
+            <th>QuantiteEnStock</th>
+            <td>{{ bonbon.quantiteEnStock }}</td>
+        </tr>
+        <tr>
+            <th>Prix</th>
+            <td>{{ bonbon.prix }}</td>
+        </tr>
+        <tr>
+            <th>Marque</th>
+            <td>{{ bonbon.marque.nom }}</td>
+        </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_bonbon_index') }}">back to list</a>
+
+    <a href="{{ path('app_bonbon_edit', {'id': bonbon.id}) }}">edit</a>
+
+    {{ include('bonbon/_delete_form.html.twig') }}
+{% endblock %}
